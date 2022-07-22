@@ -1,0 +1,25 @@
+{
+  "name": "swapcontract",
+  "version": "1.0.0",
+  "description": "Make swap contract used Pancake Router Contract for test",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://junyoung523@github.com/junyoung523/SwapContract.git"
+  },
+  "keywords": [
+    "SwapContract"
+  ],
+  "author": "junyoung523",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/junyoung523/SwapContract/issues"
+  },
+  "homepage": "https://github.com/junyoung523/SwapContract#readme",
+  "dependencies": {
+    "web3": "^1.7.4"
+  }
+}
